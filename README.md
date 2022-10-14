@@ -6,11 +6,11 @@
 ## doc폴더는 해당 개발에 대한 초안 정도의 개발 제안서입니다.
 
 ### 해당 리포지토리 사용시 주의 사항
-1. commit 하고 push하실 떄, 꼭 무엇을 수정했는지 요약을 해서 메모해주세요.
+1. commit 하고 push하실 떄, ***꼭 무엇을 수정했는지 요약***을 해서 메모해주세요.
 2. 참고한 코드의 출처나 다른 분의 깃허브 주소를 꼭 알려주십시오.
 
 ##### 참고 문헌 및 사례 : 에브라타임(여러 학교 커뮤니티 어플), sofo - 대학맛집(맛집 어플)
-+ sofo 어플 : https://www.koreapas.com/m/sofo_result.php
++ sofo 어플 : <https://www.koreapas.com/m/sofo_result.php>
  
 ##### 라이센스
   + MIT
