@@ -17,7 +17,7 @@
 
 
 #####아래는 테스팅입니다
-``` C
-printf("Hello world !\n");
-printf("code Block \n");
+``` python
+printf("Hello world !\n")
+printf("code Block \n")
 ```
